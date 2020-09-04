@@ -1,4 +1,4 @@
-#Hello and welcome you for coming to the Fluffy Hat Emporium!
+#Hello and welcome to the Fluffy Hat Emporium!
 #This is a calculator that uses the circumference of your head and the length of your forehead to calculate
 # the fluff fusion equation for your custom hat.
 name=input("Enter your name:")
@@ -17,3 +17,4 @@ fave_color=input("What is your favorite color?")
 fluff_preference=input("Would you like a small or large puffball?")
 fluffy="Your fluff fusion equation is %s of %s warm fabric with a %s puffball!" % (in_fabric,fave_color,fluff_preference)
 print(fluffy)
+ 
